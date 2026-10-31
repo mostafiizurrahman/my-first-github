@@ -8,5 +8,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/mostafiizurrahman/my-first-github.git
 git push -u origin main
-
+git push (second time e)
 bujhlam sob kichu
